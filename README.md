@@ -1,0 +1,1 @@
+this repository is on shell basics
